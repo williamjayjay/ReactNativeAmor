@@ -1,4 +1,4 @@
-const styles = {
+const styles = {   //atualmente NAOOOOOOOO precisa mais colocar - >import { stylesheet } from 'react-native'
     container: {
         flex: 1,
         justifyContent: 'center',
